@@ -21,8 +21,7 @@ public class WakeupActivity extends Activity {
     //Randomクラスの生成（シード指定なし）
     Random rnd = new Random();
 
-    int num1 = rnd.nextInt(100) + 100;
-    int num2 = rnd.nextInt(100) + 500;
+    int num1,num2;
 
     int num3 = num1 * num2;
 
@@ -38,7 +37,7 @@ public class WakeupActivity extends Activity {
 
         // アラームをループ再生
 		//Randomクラスのインスタンス化
-		Random rnd = new Random();
+		//Random rnd = new Random();
 		int ran = rnd.nextInt(5);
 
         switch (ran) {
@@ -61,6 +60,9 @@ public class WakeupActivity extends Activity {
         TextView textView1 = (TextView) findViewById(R.id.textView1);
         final EditText editText = (EditText) findViewById(R.id.edit_text);
 
+        ransu();
+        Log.d("onClick","発生された値 は「" + num1 + "」");
+        Log.d("onClick","発生された値 は「" + num2 + "」");
         textView1.setText(num1 + "×" + num2 + "の解を答えよ。" );
 
 		Button stop_btn = (Button)findViewById(R.id.stop_btn);
@@ -92,4 +94,11 @@ public class WakeupActivity extends Activity {
 		player.stop();
 		finish();
 	}
+
+    protected void ransu(){
+        do {
+            num1 = rnd.nextInt(100);
+            num2 = rnd.nextInt(100);
+        } while(num1 < 10 || num2 < 10);
+    }
 }

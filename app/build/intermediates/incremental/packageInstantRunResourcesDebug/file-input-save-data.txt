@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 27 15:33:39 JST 2017
+#Tue Jun 27 17:00:40 JST 2017
 8.set=ANDROID_RESOURCE
 1.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
 1.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/raw/morningglow.mp3
