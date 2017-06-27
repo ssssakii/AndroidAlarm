@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/layout/wakeup.xml",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/layout/wakeup.xml"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/layout/calculation.xml",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/layout/calculation.xml"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/layout/setting.xml",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/layout/setting.xml"
+    }
+]

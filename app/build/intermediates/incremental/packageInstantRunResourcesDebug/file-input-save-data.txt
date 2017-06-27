@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Jun 24 14:32:14 JST 2017
+2.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/raw/zinguru.mp3
+5.set=ANDROID_RESOURCE
+3.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/layout/wakeup.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/raw/test_cbr.mp3
+4.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+5.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/layout/test.xml
+10.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/layout/calculation.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/res/layout/setting.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

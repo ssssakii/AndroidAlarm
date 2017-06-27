@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3644f3b49814d48328840d7d4d677cdf8b210f2f">
+        <dex dex="/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f5541e4a32c8c5b6d04128b14ed27d287cc0c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f06da8e976bccad70865e9a6b3977990234a0a97/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.co.brilliantservice.hacks.useAlarm"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="4" />
+
+    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="jp.co.brilliantservice.hacks.useAlarm.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="jp.co.brilliantservice.hacks.useAlarm.SettingActivity" />
+        <activity android:name="jp.co.brilliantservice.hacks.useAlarm.WakeupActivity" />
+        <activity android:name="jp.co.brilliantservice.hacks.useAlarm.Calculation" />
+
+        <receiver android:name="jp.co.brilliantservice.hacks.useAlarm.SampleBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

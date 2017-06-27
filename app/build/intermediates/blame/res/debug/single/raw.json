@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/zinguru.mp3",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/zinguru.mp3"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/test_cbr.mp3",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/test_cbr.mp3"
+    }
+]
