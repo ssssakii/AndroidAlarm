@@ -1,4 +1,4 @@
-#Sat Jun 24 14:32:19 JST 2017
+#Tue Jun 27 15:33:41 JST 2017
 base.0=/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f06da8e976bccad70865e9a6b3977990234a0a97
 renamed.1=classes.dex
 renamed.0=classes2.dex

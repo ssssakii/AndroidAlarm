@@ -1,10 +1,22 @@
 [
     {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/coffeebreak.mp3",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/coffeebreak.mp3"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/morningglow.mp3",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/morningglow.mp3"
+    },
+    {
         "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/zinguru.mp3",
         "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/zinguru.mp3"
     },
     {
         "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/test_cbr.mp3",
         "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/test_cbr.mp3"
+    },
+    {
+        "merged": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/build/intermediates/res/merged/debug/raw/yournatural.mp3",
+        "source": "/Users/sakitakada/AndroidStudioProjects/useAlarm/app/src/main/res/raw/yournatural.mp3"
     }
 ]

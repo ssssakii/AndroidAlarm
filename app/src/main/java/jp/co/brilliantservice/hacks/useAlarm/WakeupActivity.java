@@ -39,11 +39,19 @@ public class WakeupActivity extends Activity {
         // アラームをループ再生
 		//Randomクラスのインスタンス化
 		Random rnd = new Random();
-		int ran = rnd.nextInt(2);
-        if (ran == 0) {
-            player = MediaPlayer.create(this, R.raw.test_cbr);
-        }else {
-            player = MediaPlayer.create(this, R.raw.zinguru);
+		int ran = rnd.nextInt(5);
+
+        switch (ran) {
+            case 0:
+                player = MediaPlayer.create(this, R.raw.test_cbr);
+            case 1:
+                player = MediaPlayer.create(this, R.raw.zinguru);
+            case 2:
+                player = MediaPlayer.create(this, R.raw.morningglow);
+            case 3:
+                player = MediaPlayer.create(this, R.raw.coffeebreak);
+            case 4:
+                player = MediaPlayer.create(this, R.raw.morningglow);
         }
 
         //player = MediaPlayer.create(this, R.raw.test_cbr);
